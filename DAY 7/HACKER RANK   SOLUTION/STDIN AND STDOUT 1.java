@@ -17,8 +17,10 @@ public class Solution
     }
 }
 
-
-
+Input (stdin)
+42
+100
+125
 OUTPUT
 42
 100
