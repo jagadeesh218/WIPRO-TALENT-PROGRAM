@@ -16,7 +16,7 @@ public class Solution
 }
 
 input(stdin)
-  java 100
+java 100
 cpp 65
 python 50
   
